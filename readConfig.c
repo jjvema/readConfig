@@ -31,6 +31,7 @@ char *trim (char * s){
 
 /*
  * Get value from config file
+ *
  */
  
 char *getValue(char *name){
