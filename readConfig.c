@@ -28,6 +28,10 @@ char *trim (char * s){
   strcpy (s, s1);
   return s;
 }
+
+/*
+ * Get value from config file
+ */
  
 char *getValue(char *name){
     char *s, buff[256];
