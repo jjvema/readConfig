@@ -2,7 +2,7 @@
 #include <string.h>
 
 #define MAXLEN 80
-#define CONFIG_FILE "/home/bbox/etc/bbox.conf"
+#define CONFIG_FILE "/app/config.conf"
 
 char value[MAXLEN];
 
